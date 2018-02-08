@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6,p {
+	font-family: 'Roboto', sans-serif;
+}
+
+.f-right {
+	float: right;
+}
+
+.m-t-30 {
+	margin-top: 30px;
+}
+
+.p-b-15 {
+	padding-bottom: 15px;
+}
+
+.p-r-5 {
+	padding-right: 5px;
+}
+
+.input-group .input-group-addon {
+	padding-left: 0;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.brand-color {
+	color: rgba(0,0,0,.85);
+}
+
+.text-head {
+	letter-spacing: 3px;
+	font-weight: bold;
+}
+
+.add-peer-btn {
+	background: #309dcf; /* Old browsers */
+	background: -moz-linear-gradient(top, #309dcf 45%, #63b6db 76%, #63b6db 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #309dcf 45%,#63b6db 76%,#63b6db 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #309dcf 45%,#63b6db 76%,#63b6db 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#309dcf', endColorstr='#63b6db',GradientType=0 ); /* IE6-9 */
+	text-transform: capitalize;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.card .card-header {
+	background: #1890ff;
+	color: white;
+	font-weight: bold;
+}
+
+.hash-color {
+	color: #52c41a;
+}
+
+.hash-box {
+	background-color: #f6ffed;
+	border: 1px solid #b7eb8f;
+	padding: 0 5px;
+}
