@@ -1,1 +1,1 @@
-### REadME
+### A visual demo of the blockchain technology
